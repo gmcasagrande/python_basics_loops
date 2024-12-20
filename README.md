@@ -4,7 +4,7 @@ Learning Python. Using while/for
 - Boolean Values
 - Conditional Execution
 
-# Estruturas de repetição como while e for
+# Estruturas de repetição com while e for
 
 1. Escreva um programa que peça dois números inteiros e imprima todos os números inteiros entre eles.
 2. Escreva um programa para calcular quantos dias levará para a colônia de uma bactéria A ultrapassar ou igualar a colônia de uma bactéria B, com base nas taxas de crescimento de 3% e 1,5% respectivamente. Considere que a colônia A inicia com 4 elementos e a B com 10.
